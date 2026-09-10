@@ -1,0 +1,15 @@
+cpu:
+  max_usage_percent: 90
+  sample_seconds: 0.2
+memory:
+  max_usage_percent: 90
+disk:
+  path: /
+  max_usage_percent: 90
+network:
+  target: 127.0.0.1
+  port: 0
+  timeout: 3
+services:
+  - ssh
+  - docker
