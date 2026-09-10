@@ -1,8 +1,8 @@
-# Mini DGX Server Validation Platform
+# Linux Server Validation Framework
 
 一個用於展示 Linux Server Firmware / Software Quality Engineer 能力的自動化驗證作品集專案。
 
-它不是完整模擬 NVIDIA DGX，而是縮小成一個可實際執行的「Linux 伺服器健康檢查與驗證平台」：自動檢查主機 CPU、記憶體、磁碟、網路、服務與 OS 資訊；當檢查失敗時，自動保留除錯證據與 HTML 報告。
+這是一個可實際執行的 Linux 伺服器健康檢查與驗證平台：自動檢查主機 CPU、記憶體、磁碟、網路、服務與 OS 資訊；當檢查失敗時，自動保留除錯證據與 HTML 報告。
 
 ## 這個專案在做什麼？
 
